@@ -1,0 +1,40 @@
+{
+  "list": [{
+    "id": 1,
+    "name": "设备1",
+    "money": 123,
+    "address": "生产一型原料",
+    "state": "运行",
+    "date": "工厂1",
+    "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+  },
+    {
+      "id": 2,
+      "name": "设备2",
+      "money": 456,
+      "address": "组装一型原料",
+      "state": "空闲",
+      "date": "工厂1",
+      "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+    },
+    {
+      "id": 3,
+      "name": "设备3",
+      "money": 789,
+      "address": "生产二型原料",
+      "state": "停工",
+      "date": "工厂二",
+      "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+    },
+    {
+      "id": 4,
+      "name": "设备4",
+      "money": 1011,
+      "address": "组装二型原料",
+      "state": "运行",
+      "date": "工厂二",
+      "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+    }
+  ],
+  "pageTotal": 4
+}

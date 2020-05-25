@@ -1,0 +1,39 @@
+{
+  "list": [{
+    "trackid": 1,
+    "scheid": 1,
+    "num": 123,
+    "oknum": 20,
+    "state": "未完成",
+    "start": "2019-10-1",
+    "end": "2019-11-1"
+  },
+    {
+      "trackid": 1,
+      "scheid": 1,
+      "num": 123,
+      "oknum": 20,
+      "state": "结束",
+      "start": "2019-10-1",
+      "end": "2019-11-1"
+    },
+    {
+      "trackid": 1,
+      "scheid": 1,
+      "num": 123,
+      "oknum": 20,
+      "state": "未完成",
+      "start": "2019-10-1",
+      "end": "2019-11-1"
+    },
+    {
+      "trackid": 1,
+      "scheid": 1,
+      "num": 123,
+      "oknum": 20,
+      "state": "结束",
+      "start": "2019-10-1",
+      "end": "2019-11-1"
+    }
+  ]
+}

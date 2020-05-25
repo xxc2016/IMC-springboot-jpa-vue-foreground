@@ -1,0 +1,27 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "鸡",
+            "equipId": 111123,
+            "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584594168586&di=e7847b8174db42734bf0967b5c332fce&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-4o3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D776bd0bc0e23dd542126af6ce4399fe8%2F37d3d539b6003af386ff70b8322ac65c1138b6a5.jpg"
+        },
+        {
+            "id": 2,
+            "name": "鸭",
+            "equipId": 111456,
+            "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584594260553&di=2e28465bfa010bbc406ecda1baf773fd&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180725%2Ffb3cac57a45c45359bf59462cb760e9e.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "鱼",
+            "equipId": 111789,
+            "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584594241038&di=d377e96ea39fa9264bec2cb9ab25e38f&imgtype=0&src=http%3A%2F%2Fimg.bbs.cnhubei.com%2Fforum%2F201905%2F24%2F100120qedfooducpurpnu4.jpg"
+        },
+        {
+            "id": 4,
+            "name": "鸡蛋",
+            "equipId": 111123,
+            "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1584594193894&di=696b640c9e54c11d87be4d47d500940d&imgtype=0&src=http%3A%2F%2Fztd00.photos.bdimg.com%2Fztd%2Fw%3D700%3Bq%3D50%2Fsign%3Dd7c80d21a944ad342ebf8587e0997dc9%2F9f510fb30f2442a79fd85269d943ad4bd0130223.jpg"
+        }
+    ]
+}

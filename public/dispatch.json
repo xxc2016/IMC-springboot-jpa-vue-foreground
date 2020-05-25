@@ -1,0 +1,47 @@
+{
+  "list": [{
+    "scheid": 1,
+    "dealid": 1,
+    "name": "鸡肉",
+    "dealnum": 123,
+    "schenum": 20,
+    "equipid": 5,
+    "state": "运行中",
+    "startdate": "2019-10-1",
+    "enddate": "2019-11-1"
+  },
+    {
+      "scheid": 2,
+      "dealid": 1,
+      "name": "鸭肉",
+      "dealnum": 456,
+      "schenum": 200,
+      "equipid": 7,
+      "state": "运行中",
+      "startdate": "2019-10-11",
+      "enddate": "2019-11-14"
+    },
+    {
+      "Scheid": 3,
+      "Dealid": 1,
+      "Name": "鱼肉",
+      "Dealnum": 789,
+      "Schenum": 340,
+      "Equipid": 8,
+      "state": "停止",
+      "startdate": "2019-9-11",
+      "enddate": "2019-10-1"
+    },
+    {
+      "scheid": 4,
+      "dealid": 1,
+      "name": "卤蛋",
+      "dealnum": 1011,
+      "schenum": 720,
+      "equipid": 50,
+      "state": "运行中",
+      "startdate": "2019-10-20",
+      "enddate": "2019-11-1"
+    }
+  ]
+}

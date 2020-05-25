@@ -1,0 +1,36 @@
+{
+  "list": [{
+    "planid": 1,
+    "dealid": 1,
+    "name": "鸡肉",
+    "state": "运行中",
+    "startdate": "2019-10-1",
+    "enddate": "2019-11-1"
+  },
+    {
+      "planid": 2,
+      "dealid": 1,
+      "name": "鸭肉",
+      "state": "运行中",
+      "startdate": "2019-10-11",
+      "enddate": "2019-11-14"
+    },
+    {
+      "planid": 3,
+      "dealid": 1,
+      "name": "鱼肉",
+      "state": "停止",
+      "startdate": "2019-9-11",
+      "enddate": "2019-10-1"
+    },
+    {
+      "planid": 4,
+      "dealid": 1,
+      "name": "卤蛋",
+      "dealnum": 1011,
+      "state": "运行中",
+      "startdate": "2019-10-20",
+      "enddate": "2019-11-1"
+    }
+  ]
+}
